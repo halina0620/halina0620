@@ -14,10 +14,8 @@
 💬 Ask me about any of my projects<br>
 
 ### Check out my:
-📄 Resume! <br>
-
-🎦 Portfolio Website! <br> 
-
+📄 Resume!<br>
+🎦 Portfolio Website!<br>
 📫 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/XFWwKWwm) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ali-ghosn-b53402217/) 
