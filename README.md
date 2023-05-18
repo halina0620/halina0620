@@ -1,3 +1,10 @@
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
+
+
+
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="coa.jpg">
  <source media="(prefers-color-scheme: light)" srcset="coa.jpg">
